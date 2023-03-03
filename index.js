@@ -1,0 +1,1 @@
+alert("Please create your accounts");
